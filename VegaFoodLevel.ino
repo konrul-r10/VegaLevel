@@ -8,8 +8,8 @@
 //#include <DallasTemperature.h>
 
 // wifi
-const char* ssid = "R10 2.4GHz"; //wifi bilgisi
-const char* password = "2184582e";
+const char* ssid = "XXXXX 2.4GHz"; //wifi bilgisi
+const char* password = "XXXXXXXX";
 WiFiClient espClient;
 
 // wifi UDP for NTP, :)
